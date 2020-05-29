@@ -9,3 +9,6 @@ for git gui
 
 
 this is for feature
+
+for commit in feature
+
