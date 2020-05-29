@@ -6,3 +6,6 @@ and i want to add smth here
 
 for git gui
 2 more lines
+
+
+this is for feature
